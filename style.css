@@ -182,14 +182,6 @@ h3 {
     unicode-bidi: isolate;
 }
 
-.decoration3 {
-    position: absolute;
-    width: 467px;
-    height: 423px;
-    left: 967px;
-    top: 1994px;
-}
-
 .review P {
     text-align: justify;
     font-family: 'Alegreya SC';
@@ -216,14 +208,6 @@ h3 {
     height: 150px;
     left: 20px;
     top: 2819px;
-}
-
-.decoration5 {
-position: absolute;
-width: 338px;
-height: 338px;
-left: 922px;
-top: 3333px;
 }
 
 .map {
